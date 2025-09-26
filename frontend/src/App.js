@@ -1,7 +1,8 @@
-import {HashRouter, Routes, Route} from "react-router-dom";
 import './App.css';
-import HomePage from "./pages/HomePage";
-import POSPage from "./pages/POSPage";
+import { HashRouter, Routes, Route } from "react-router-dom";
+import HomePage from "./pages/HomePage"
+import POSPage from "./pages/POSPage"
+
 
 function App() {
   return (
@@ -15,3 +16,5 @@ function App() {
 }
 
 export default App;
+
+
