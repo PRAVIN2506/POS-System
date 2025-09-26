@@ -61,11 +61,12 @@ src/
 │   └── MainLayout.jsx
 ├── App.js
 └── index.js
+```
 
-## 📁 Folder Structure
+## ScreenRecord
 https://drive.google.com/file/d/1L30FYyRctMvhmPAPM3wvDp3yZKn50JDW/view?usp=drive_link
 
-```
+
 
 ## 💬 Credits
 Built with ❤️ by BEBE, powered by React and Tailwind CSS.
