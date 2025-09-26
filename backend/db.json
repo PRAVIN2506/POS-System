@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Orange",
+      "price": "2",
+      "image": "https://cdn.pixabay.com/photo/2017/01/20/15/06/oranges-1995056_1280.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Apple",
+      "price": "3",
+      "image": "https://cdn.pixabay.com/photo/2022/09/16/16/09/harvest-7458975_1280.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Strawberry",
+      "price": "8",
+      "image": "https://cdn.pixabay.com/photo/2022/05/27/10/35/strawberry-7224875_1280.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Banana",
+      "price": "6",
+      "image": "https://cdn.pixabay.com/photo/2014/04/16/09/58/banana-325461_1280.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Grapes",
+      "price": "5",
+      "image": "https://cdn.pixabay.com/photo/2018/08/22/13/58/grapes-3623694_1280.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Pineapple",
+      "price": "7",
+      "image": "https://cdn.pixabay.com/photo/2018/11/11/15/42/pineapple-3808963_1280.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Watermelon",
+      "price": "10",
+      "image": "https://cdn.pixabay.com/photo/2017/06/16/14/35/watermelon-2409368_1280.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Kiwi",
+      "price": "4",
+      "image": "https://cdn.pixabay.com/photo/2014/07/23/11/51/kiwifruit-400143_1280.jpg"
+    }
+  ]
+}
