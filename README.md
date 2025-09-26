@@ -62,6 +62,9 @@ src/
 ├── App.js
 └── index.js
 
+## 📁 Folder Structure
+https://drive.google.com/file/d/1L30FYyRctMvhmPAPM3wvDp3yZKn50JDW/view?usp=drive_link
+
 ```
 
 ## 💬 Credits
