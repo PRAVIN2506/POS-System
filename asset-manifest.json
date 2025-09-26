@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https://github.com/PRAVIN2506/POS-System/static/css/main.4116162b.css",
+    "main.js": "/https://github.com/PRAVIN2506/POS-System/static/js/main.eb17a6b7.js",
+    "index.html": "/https://github.com/PRAVIN2506/POS-System/index.html",
+    "main.4116162b.css.map": "/https://github.com/PRAVIN2506/POS-System/static/css/main.4116162b.css.map",
+    "main.eb17a6b7.js.map": "/https://github.com/PRAVIN2506/POS-System/static/js/main.eb17a6b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4116162b.css",
+    "static/js/main.eb17a6b7.js"
+  ]
+}
