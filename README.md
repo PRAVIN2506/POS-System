@@ -69,4 +69,4 @@ https://drive.google.com/file/d/1L30FYyRctMvhmPAPM3wvDp3yZKn50JDW/view?usp=drive
 
 
 ## 💬 Credits
-Built with ❤️ by BEBE, powered by React and Tailwind CSS.
+Built with ❤️ by BEBE (Pravin)
